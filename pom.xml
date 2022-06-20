@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <kotlin.version>1.3.72</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
         <junit.version>4.12</junit.version>
         <kotest.version>4.0.5</kotest.version>
         <main.class>org.jlr.montecarlo.TesterKt</main.class>
